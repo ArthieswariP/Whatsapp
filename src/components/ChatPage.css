@@ -1,0 +1,18 @@
+
+.chat-page-container {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .left-container {
+    width: 25%; 
+    background-color: #e0e0e0;
+  }
+  
+  .right-container {
+    width: 75%; 
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+  }
+  

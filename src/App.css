@@ -1,0 +1,22 @@
+.App {
+  font-family: Arial, sans-serif;
+}
+
+.flex-container {
+  display: flex;
+  height: 100vh; 
+}
+
+.left-container {
+  flex: 1;
+  margin-right: 1px;
+  background-color: hsl(0, 100%, 99%);
+  box-sizing: border-box; 
+}
+
+.right-container {
+  flex: 3;
+  margin-left: 1px;
+  background-color:#9a9999;
+  box-sizing: border-box; 
+}

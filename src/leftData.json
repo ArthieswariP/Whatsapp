@@ -1,0 +1,158 @@
+{
+  "chats": [
+    {
+      "profile": {
+        "name": "Arthi",
+        "profile_url": "https://example.com/alice"
+      },
+      "messages": [
+        {
+          "message": "Hey! How are you?",
+          "time": "14:30"
+        },
+        {
+          "message": "Are we still on for the meeting?",
+          "time": "14:31"
+        },
+        {
+          "message": "I’m flexible!",
+          "time": "08:16"
+        }
+      ],
+      "message_count": 3
+    },
+    {
+      "profile": {
+        "name": "Mala",
+        "profile_url": "https://example.com/bob"
+      },
+      "messages": [
+        {
+          "message": "Let's catch up this weekend!",
+          "time": "10:15"
+        }
+      ],
+      "message_count": 1
+    },
+    {
+      "profile": {
+        "name": "Gomathi",
+        "profile_url": "https://example.com/charlie"
+      },
+      "messages": [
+        {
+          "message": "Did you see the latest episode?",
+          "time": "yesterday"
+        },
+        {
+          "message": "I can't believe what happened!",
+          "time": "16:50"
+        }
+      ],
+      "message_count": 2
+    },
+    {
+      "profile": {
+        "name": "Deepa",
+        "profile_url": "https://example.com/dana"
+      },
+      "messages": [
+        {
+          "message": "",
+          "time": ""
+        }
+      ],
+      "message_count": ""
+    },
+    {
+      "profile": {
+        "name": "Varsha",
+        "profile_url": "https://example.com/ethan"
+      },
+      "messages": [
+        {
+          "message": "Happy birthday!",
+          "time": "09:30"
+        },
+        {
+          "message": "Hope you're having a great day!",
+          "time": "09:31"
+        }
+      ],
+      "message_count": 2
+    },
+    {
+      "profile": {
+        "name": "Maha",
+        "profile_url": "https://example.com/fiona"
+      },
+      "messages": [
+        {
+          "message": "Can we reschedule our call?",
+          "time": "14:00"
+        }
+      ],
+      "message_count": 1
+    },
+    {
+      "profile": {
+        "name": "Sakthi",
+        "profile_url": "https://example.com/george"
+      },
+      "messages": [
+        {
+          "message": "I finished the report!",
+          "time": "12:00"
+        },
+        {
+          "message": "Let me know your feedback.",
+          "time": "12:01"
+        }
+      ],
+      "message_count": 2
+    },
+    {
+      "profile": {
+        "name": "Anu",
+        "profile_url": "https://example.com/hannah"
+      },
+      "messages": [
+        {
+          "message": "Are we still on for lunch?",
+          "time": "10:30"
+        }
+      ],
+      "message_count": 1
+    },
+    {
+      "profile": {
+        "name": "Renu",
+        "profile_url": "https://example.com/isaac"
+      },
+      "messages": [
+        {
+          "message": "Thanks for the help yesterday!",
+          "time": "15:20"
+        }
+      ],
+      "message_count": 1
+    },
+    {
+      "profile": {
+        "name": "Raj",
+        "profile_url": "https://example.com/jackie"
+      },
+      "messages": [
+        {
+          "message": "Hey! How are you?",
+          "time": "08:15"
+        },
+        {
+          "message": "I’m flexible!",
+          "time": "08:16"
+        }
+      ],
+      "message_count": 2
+    }
+  ]
+}

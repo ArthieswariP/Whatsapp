@@ -1,0 +1,211 @@
+/* .login-container {
+  width: 100%;
+}
+
+.top-section {
+  width: 100%;
+  height: 215px;
+  background-color: #00a884;
+}
+
+.text {
+  font-size: 16px;
+  font-weight: 600;
+  color: white; 
+  margin-bottom: 64px;
+  margin-left: 297px;
+  text-transform: uppercase;
+  margin-top: -42px;
+}
+.top-section .logo {
+  height: 70px !important;
+  width: 70px !important;
+  margin-left: 228px;
+  transform: translateY(17%) !important;
+}
+.box{
+  margin-top: -107.5px;
+  margin-left: 235px;
+  height: 1100px; 
+  width: 1007px;
+  border-radius: 7px;
+  background-color: rgb(237, 237, 237); 
+  border: 1px solid #fbf6f6; 
+}
+
+.qr-code{
+  margin-left: 677px;
+  margin-top: 185px;
+  width: 265px;
+}
+.header{
+  margin-top: -1054px;
+  border-radius: 7px;
+  padding-right: 13px;
+  margin-left: 317px;
+  width: 826px;
+  height: 108px;
+  background-color: white;
+  border: 1px solid #afafaf; 
+}
+.data_icon{
+  width: 76px;
+  height: 43px;
+  margin-left: 47px;
+  margin-top: 30px
+}
+.data_sub_text{
+  font-size: 1.0625rem;
+  margin-left: 138px;
+  margin-top: -50px;
+}
+.sub_text{
+  margin-left: 138px;
+  margin-top: 3px;
+  font-size: .875rem;
+  color: #54656f;
+}
+.dotted{
+  width: 15px;
+  height: 15px ;
+  background-color: #fafafb;
+}
+.settingIcon{
+  width: 15px;
+  height: 15px ;
+}
+
+.get {
+  width: 116px;
+  height: 36px;
+  border-radius: 20px;
+  background-color: #008069;
+  color: white;
+  text-align: center; 
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  margin-left: 663px; 
+  margin-top: -34px; 
+  font-size: 14px; 
+  font-weight: 600;
+}
+.header_text{
+  font-weight: 300;
+  font-size: 1.75rem;
+  margin-top: 30px;
+  margin-left: 295px;
+  color: #41525d;
+}
+.header_sub_text { 
+  font-size: 1.125rem;
+  color: #3b4a54;
+  margin-left: 292px;
+  margin-top: 38px;
+}
+
+.header_sub_text ol {
+  padding-left: 24px; 
+}
+
+.header_sub_text li {
+  margin-bottom: 20px; 
+}
+.line {
+  border-top: 1px solid #dcdcdc;
+  margin-top: 108px !important;
+  width: 60%; 
+  margin: 20px auto;
+}
+.link_text{
+  font-size: 18px;
+  margin-left: 287px;
+  margin-top: 34px;
+  color: #008069;
+  cursor: pointer;
+}
+.landing_title{
+  margin-left: 600px;
+  margin-top: 79px;
+  font-size: 28px;
+  font-weight: 300;
+  line-height: normal;
+  color: #41525d;
+}
+.landing_subtitle{
+  color: #008069;
+  font-size: 16px;
+  margin-left: 548px;
+  cursor: pointer;
+}
+.tutorial-video {
+  margin-left: 410px;
+  width: 100%;
+  max-width: 483px;
+  height: auto;
+  margin-top: 41px
+}
+
+
+
+
+
+
+ 
+  */
+
+ 
+  .login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('../pages/background.png'); 
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .login-box {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    width: 300px;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .input-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: -10px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  

@@ -1,0 +1,108 @@
+.right-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column; 
+    background-color: #e5ddd5;
+  }
+  .top {
+    height: 33px;
+    background-color:  hsl(0, 1%, 80%);
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .center {
+    flex: 1; 
+  }
+  
+  .middle {
+    padding: 18px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end; 
+    align-items: center;
+    background-color: hsl(0, 1%, 80%);
+    margin-bottom: -19px;
+  }
+  
+  .field {
+    text-align: center;
+    width: 947px;
+    /* width: 100%; */
+    height: 28px;
+    background-color: hsl(0, 0%, 100%);
+    border: none;
+    outline: none;
+    border-bottom: 1px solid rgb(210, 210, 210);
+    border-radius: 7px;
+    margin-bottom: 15px;
+  }
+  .logo {
+    height: 20px !important;
+    width: 20px !important;
+    margin-right: 929px !important;
+    transform: translateY(-227%) !important;
+  }
+  .attach{
+    height: 20px;
+    width: 20px;
+    margin-right: 832px;
+    transform: translateY(-339%)
+  }
+  
+  .voice-Icon {
+    height: 20px;
+    width: 20px;
+    margin-left: 929px;
+    margin-top: -82px;
+  }
+  .picker{
+    margin-top: -450px;
+    margin-left: -648px
+  }
+  .send{
+    height: 24px;
+    width: 24px;
+    margin-right: 1043px;
+    margin-top: -30px;
+  }
+  .mic-container {
+    margin-top: -15px;
+    width: 265px;
+    height: 31px;
+    padding-top: -24px;
+    margin-right: 701px;
+  }
+
+  .message {
+    width: 500px !important; 
+    margin: 8px 0;
+    border-radius: 6px; 
+    margin-left: 40px; 
+    width: 500px;
+    background-color: #e7f7e3;
+}
+.file-attachment{
+   width: 100px;
+   height: auto;
+
+   .video_send{
+    width: 500px !important;
+    height: 500px !important;
+  }
+}
+.Download_Icon{
+  width: 20px;
+  height: 20px;
+  margin-left: 465px !important;
+}
+.message p {
+    font-size: 14px;
+    margin: 5px 0; 
+    padding: 5px; 
+    border-radius: 4px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    word-wrap: break-word; 
+}
